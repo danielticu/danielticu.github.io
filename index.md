@@ -1,10 +1,11 @@
 ## Welcome to Daniel Ticu's personal page
 
+<img src="img/ticu.jpg">
 
 My name is Ticu Daniel - Constantin and I am a passionate software engineer
 
 Some of my hobbies are:
--Sports
+-Sports 
 -Travelling
 -Boardgames
 
