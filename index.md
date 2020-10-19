@@ -12,7 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Ticu Daniel - Constantin
 ## Header 2
+Software engineer
 ### Header 3
 
 - Bulleted
@@ -25,7 +27,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+<img src="img/stickman.png">
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
