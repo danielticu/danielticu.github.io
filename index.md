@@ -2,7 +2,7 @@
 
 <img src="ticu.jpg" alt="hi" class="inline"/>
 
-My name is Ticu Daniel - Constantin and I am a passionate software engineer
+My name is Daniel - Constantin Ticu and I am a passionate software engineer
 
 Some of my hobbies are:
 -Sports <br>
