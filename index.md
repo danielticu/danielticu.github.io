@@ -1,15 +1,15 @@
 ## Welcome to Daniel Ticu's personal page
 
 
-Ticu Daniel - Constantin
+My name is Ticu Daniel - Constantin and I am a passionate software engineer
 
-Software engineer
+Some of my hobbies are:
+-Sports
+-Travelling
+-Boardgames
 
 
 
-<img src="img/stickman.png">
-
-<button type="button">Click Me!</button>
-<form action="https://google.com">
-    <input type="submit" value="Go to Google" />
+<form action="https://www.linkedin.com/in/daniel-ticu/">
+    <input type="submit" value="Follow me on Linkedin" />
 </form>
