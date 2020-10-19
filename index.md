@@ -5,9 +5,10 @@
 My name is Ticu Daniel - Constantin and I am a passionate software engineer
 
 Some of my hobbies are:
--Sports 
--Travelling
--Boardgames
+-Sports <br>
+-Travelling <br>
+-Boardgames <br>
+-Fitness and nutrition
 
 
 
