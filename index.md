@@ -1,6 +1,6 @@
 ## Welcome to Daniel Ticu's personal page
 
-<img src="img/ticu.jpg">
+<img src="ticu.jpg" alt="hi" class="inline"/>
 
 My name is Ticu Daniel - Constantin and I am a passionate software engineer
 
